@@ -1,2 +1,5 @@
-print("Hello Ayush")
-#this is ayush
+x=int(input("enter a number"))
+if x>50:
+    print("number is bigger")
+else:
+    print("number is smaller")
